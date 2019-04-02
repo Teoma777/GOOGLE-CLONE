@@ -5,8 +5,9 @@
     flex-direction: column;
     align-items: center;
     align-content: center;
-    margin: auto;
- 
+    flex: 1;
+    padding: 10% 10% 10% 10%;
+
     }
 
 
@@ -78,6 +79,7 @@ flex-grow: 1;
 
 
 #bas { 
+	align-content: baseline;
 display: flex;
 margin: 10px;
 margin-right: 10px;
@@ -98,9 +100,40 @@ font-family: arial,sans-serif;
 
 }
 
+.champ  {
+  border: none;
+    padding: 10px;
+    margin: 10px;
+    height: 20px;
+    width: 500px;
+    border:1px solid #eaeaea;
+    outline:none;
+            border-radius: 15px;
+
+
+}
+
+input:focus{
+    box-shadow: 4px 4px 0px #e3e4e8;
+}
+
+
+
+.tour  {
+
+
+}
 
 footer {
 background-color: #F5F5F5;
+
+position:absolute;
+
+bottom:0;
+
+width:100%;
+
+
 
 
 }
