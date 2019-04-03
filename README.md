@@ -10,4 +10,4 @@ Difficultées rencontrées :
 - trouver un logo a jour
 
 
-LIEN : https://teoma777.github.io/GOOGLE-CLONE/
+LIEN : https://teoma777.github.io/GOOGLE-CLONE/google.html
